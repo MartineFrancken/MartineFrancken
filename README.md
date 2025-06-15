@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MartineFrancken and I work @Topicus for Ambusuite
+- 👋 Hi, I’m @MartineFrancken and for now I'm on a creative adventure
 - 👀 I’m interested in Ionic, Angular and C#
 
 <!---
